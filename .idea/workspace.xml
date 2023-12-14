@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg">
+      <change afterPath="$PROJECT_DIR$/consecutiveOneNotAllowed.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TUT6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/TUT6.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,9 @@
     "C/C++ File.TUT3.cpp.executor": "Run",
     "C/C++ File.TUT4.cpp.executor": "Run",
     "C/C++ File.TUT5.cpp.executor": "Run",
+    "C/C++ File.TUT6.cpp (1).executor": "Run",
     "C/C++ File.TUT6.cpp.executor": "Run",
+    "C/C++ File.consecutiveOneNotAllowed.cpp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -79,19 +81,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.TUT6.cpp">
-    <configuration name="TUT2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="TUT2.cpp" CONFIG_NAME="TUT2.cpp">
-      <option name="sourceFile" value="TUT2.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TUT3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="TUT3.cpp" CONFIG_NAME="TUT3.cpp">
-      <option name="sourceFile" value="TUT3.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.consecutiveOneNotAllowed.cpp">
     <configuration name="TUT4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="TUT4.cpp" CONFIG_NAME="TUT4.cpp">
       <option name="sourceFile" value="TUT4.cpp" />
       <method v="2">
@@ -104,19 +94,31 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TUT6.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="TUT6.cpp">
+      <option name="sourceFile" value="paintingFence.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TUT6.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="TUT6.cpp" CONFIG_NAME="TUT6.cpp">
       <option name="sourceFile" value="TUT6.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="consecutiveOneNotAllowed.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="consecutiveOneNotAllowed.cpp" CONFIG_NAME="consecutiveOneNotAllowed.cpp">
+      <option name="sourceFile" value="consecutiveOneNotAllowed.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.consecutiveOneNotAllowed.cpp" />
+        <item itemvalue="C/C++ File.TUT6.cpp (1)" />
         <item itemvalue="C/C++ File.TUT6.cpp" />
         <item itemvalue="C/C++ File.TUT5.cpp" />
         <item itemvalue="C/C++ File.TUT4.cpp" />
-        <item itemvalue="C/C++ File.TUT3.cpp" />
-        <item itemvalue="C/C++ File.TUT2.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +134,7 @@
       <workItem from="1702442813607" duration="9263000" />
       <workItem from="1702527639405" duration="1636000" />
       <workItem from="1702529780885" duration="89000" />
-      <workItem from="1702529882819" duration="2024000" />
+      <workItem from="1702529882819" duration="4097000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -182,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702484727666</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1702542657219</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702542657219</updated>
+    </task>
+    <task id="LOCAL-00008" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1702542669399</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702542669399</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
