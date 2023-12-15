@@ -57,6 +57,7 @@
     "C/C++ File.TUT6.cpp (1).executor": "Run",
     "C/C++ File.TUT6.cpp.executor": "Run",
     "C/C++ File.consecutiveOneNotAllowed.cpp.executor": "Run",
+    "C/C++ File.reachNthPoint.cpp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -80,13 +81,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.consecutiveOneNotAllowed.cpp">
-    <configuration name="TUT4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="TUT4.cpp" CONFIG_NAME="TUT4.cpp">
-      <option name="sourceFile" value="TUT4.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.reachNthPoint.cpp">
     <configuration name="TUT5.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="TUT5.cpp" CONFIG_NAME="TUT5.cpp">
       <option name="sourceFile" value="TUT5.cpp" />
       <method v="2">
@@ -111,13 +106,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="reachNthPoint.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="reachNthPoint.cpp" CONFIG_NAME="reachNthPoint.cpp">
+      <option name="sourceFile" value="reachNthPoint.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.reachNthPoint.cpp" />
         <item itemvalue="C/C++ File.consecutiveOneNotAllowed.cpp" />
         <item itemvalue="C/C++ File.TUT6.cpp (1)" />
         <item itemvalue="C/C++ File.TUT6.cpp" />
         <item itemvalue="C/C++ File.TUT5.cpp" />
-        <item itemvalue="C/C++ File.TUT4.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +135,7 @@
       <workItem from="1702527639405" duration="1636000" />
       <workItem from="1702529780885" duration="89000" />
       <workItem from="1702529882819" duration="6199000" />
+      <workItem from="1702616964167" duration="7932000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -207,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702547115548</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1702617472541</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702617472541</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
