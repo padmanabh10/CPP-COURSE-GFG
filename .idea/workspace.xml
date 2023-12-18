@@ -10,8 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg">
-      <change afterPath="$PROJECT_DIR$/trianglePattern .cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trianglePattern.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/trianglePattern.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
     "C/C++ File.maxSumWithoutAdjacent.cpp.executor": "Run",
     "C/C++ File.reachNthPoint.cpp.executor": "Run",
     "C/C++ File.stringCount.cpp.executor": "Run",
+    "C/C++ File.trianglePattern .cpp (1).executor": "Run",
     "C/C++ File.trianglePattern .cpp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -143,7 +143,7 @@
       <workItem from="1702529882819" duration="6199000" />
       <workItem from="1702616964167" duration="7932000" />
       <workItem from="1702697005545" duration="1058000" />
-      <workItem from="1702872999543" duration="20097000" />
+      <workItem from="1702872999543" duration="20439000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -257,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702895754964</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1702911054485</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1702911054485</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
