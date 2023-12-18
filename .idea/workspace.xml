@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg">
-      <change afterPath="$PROJECT_DIR$/gameOfXOR.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trianglePattern .cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,7 @@
     "C/C++ File.maxSumWithoutAdjacent.cpp.executor": "Run",
     "C/C++ File.reachNthPoint.cpp.executor": "Run",
     "C/C++ File.stringCount.cpp.executor": "Run",
+    "C/C++ File.trianglePattern .cpp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -86,13 +87,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.gameOfXOR.cpp">
-    <configuration name="countEvenLength.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="countEvenLength.cpp" CONFIG_NAME="countEvenLength.cpp">
-      <option name="sourceFile" value="countEvenLength.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.trianglePattern .cpp (1)">
     <configuration name="gameOfXOR.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="gameOfXOR.cpp" CONFIG_NAME="gameOfXOR.cpp">
       <option name="sourceFile" value="gameOfXOR.cpp" />
       <method v="2">
@@ -111,19 +106,25 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringCount.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="stringCount.cpp" CONFIG_NAME="stringCount.cpp">
-      <option name="sourceFile" value="stringCount.cpp" />
+    <configuration name="trianglePattern .cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="trianglePattern .cpp">
+      <option name="sourceFile" value="trianglePattern.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trianglePattern .cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="trianglePattern .cpp" CONFIG_NAME="trianglePattern .cpp">
+      <option name="sourceFile" value="trianglePattern .cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.trianglePattern .cpp (1)" />
+        <item itemvalue="C/C++ File.trianglePattern .cpp" />
         <item itemvalue="C/C++ File.gameOfXOR.cpp" />
         <item itemvalue="C/C++ File.maxSumWithoutAdjacent.cpp (1)" />
         <item itemvalue="C/C++ File.maxSumWithoutAdjacent.cpp" />
-        <item itemvalue="C/C++ File.stringCount.cpp" />
-        <item itemvalue="C/C++ File.countEvenLength.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +143,7 @@
       <workItem from="1702529882819" duration="6199000" />
       <workItem from="1702616964167" duration="7932000" />
       <workItem from="1702697005545" duration="1058000" />
-      <workItem from="1702872999543" duration="18043000" />
+      <workItem from="1702872999543" duration="20097000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -248,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702874808918</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1702895754964</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1702895754964</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
