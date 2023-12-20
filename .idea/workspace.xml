@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg">
-      <change afterPath="$PROJECT_DIR$/test .cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +62,7 @@
     &quot;C/C++ File.maxSumWithoutAdjacent.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.reachNthPoint.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.stringCount.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.test .cpp (1).executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.test .cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.test.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.trianglePattern .cpp (1).executor&quot;: &quot;Run&quot;,
@@ -90,7 +90,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.test .cpp (1)">
+  <component name="RunManager" selected="C/C++ File.modifiedGameOfNim.cpp">
+    <configuration name="modifiedGameOfNim.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="modifiedGameOfNim.cpp" CONFIG_NAME="modifiedGameOfNim.cpp">
+      <option name="sourceFile" value="modifiedGameOfNim.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test .cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="test .cpp">
       <option name="sourceFile" value="rightmostDifferentBit.cpp" />
       <method v="2">
@@ -115,19 +121,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trianglePattern .cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="trianglePattern .cpp" CONFIG_NAME="trianglePattern .cpp">
-      <option name="sourceFile" value="trianglePattern .cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.modifiedGameOfNim.cpp" />
         <item itemvalue="C/C++ File.test .cpp (1)" />
         <item itemvalue="C/C++ File.test .cpp" />
         <item itemvalue="C/C++ File.test.cpp" />
         <item itemvalue="C/C++ File.trianglePattern .cpp (1)" />
-        <item itemvalue="C/C++ File.trianglePattern .cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,8 @@
       <workItem from="1702697005545" duration="1058000" />
       <workItem from="1702872999543" duration="23241000" />
       <workItem from="1702916207388" duration="1856000" />
-      <workItem from="1702957994509" duration="2345000" />
+      <workItem from="1702957994509" duration="3310000" />
+      <workItem from="1703074237190" duration="1567000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -278,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702911795594</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1702960724939</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1702960724939</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
