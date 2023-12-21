@@ -60,6 +60,7 @@
     &quot;C/C++ File.gameOfXOR.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.maxSumWithoutAdjacent.cpp (1).executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.maxSumWithoutAdjacent.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.modifiedGameOfNim.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.reachNthPoint.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.stringCount.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.test .cpp (1).executor&quot;: &quot;Run&quot;,
@@ -149,7 +150,8 @@
       <workItem from="1702872999543" duration="23241000" />
       <workItem from="1702916207388" duration="1856000" />
       <workItem from="1702957994509" duration="3310000" />
-      <workItem from="1703074237190" duration="1567000" />
+      <workItem from="1703074237190" duration="2481000" />
+      <workItem from="1703134411164" duration="340000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -287,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702960724939</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1703085101759</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1703085101759</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
