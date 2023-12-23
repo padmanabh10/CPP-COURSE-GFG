@@ -57,6 +57,7 @@
     "C/C++ File.TUT6.cpp (1).executor": "Run",
     "C/C++ File.TUT6.cpp.executor": "Run",
     "C/C++ File.consecutiveOneNotAllowed.cpp.executor": "Run",
+    "C/C++ File.countOccurences.cpp.executor": "Run",
     "C/C++ File.distinctElementsOfArray.cpp.executor": "Run",
     "C/C++ File.gameOfXOR.cpp.executor": "Run",
     "C/C++ File.isArraySorted.cpp.executor": "Run",
@@ -95,7 +96,13 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.maxMeetingInRoom.cpp">
+  <component name="RunManager" selected="C/C++ File.countOccurences.cpp">
+    <configuration name="countOccurences.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="countOccurences.cpp" CONFIG_NAME="countOccurences.cpp">
+      <option name="sourceFile" value="countOccurences.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="distinctElementsOfArray.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="distinctElementsOfArray.cpp" CONFIG_NAME="distinctElementsOfArray.cpp">
       <option name="sourceFile" value="distinctElementsOfArray.cpp" />
       <method v="2">
@@ -120,19 +127,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="modifiedGameOfNim.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="modifiedGameOfNim.cpp" CONFIG_NAME="modifiedGameOfNim.cpp">
-      <option name="sourceFile" value="modifiedGameOfNim.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.countOccurences.cpp" />
         <item itemvalue="C/C++ File.maxMeetingInRoom.cpp" />
         <item itemvalue="C/C++ File.distinctElementsOfArray.cpp" />
         <item itemvalue="C/C++ File.isArraySorted.cpp" />
         <item itemvalue="C/C++ File.minCandy.cpp" />
-        <item itemvalue="C/C++ File.modifiedGameOfNim.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +157,9 @@
       <workItem from="1702957994509" duration="3310000" />
       <workItem from="1703074237190" duration="2481000" />
       <workItem from="1703134411164" duration="4208000" />
-      <workItem from="1703218629732" duration="1236000" />
+      <workItem from="1703218629732" duration="1938000" />
+      <workItem from="1703251806278" duration="1202000" />
+      <workItem from="1703306426764" duration="1419000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -326,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703141703536</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1703223120332</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1703223120332</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
