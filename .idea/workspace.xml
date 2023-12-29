@@ -101,9 +101,15 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.wildcardStringMatching.cpp">
+  <component name="RunManager" selected="C/C++ File.ifStringIsReapeted.cpp">
     <configuration name="antiDiagonalTraversal.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="antiDiagonalTraversal.cpp" CONFIG_NAME="antiDiagonalTraversal.cpp">
       <option name="sourceFile" value="antiDiagonalTraversal.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ifStringIsReapeted.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="ifStringIsReapeted.cpp" CONFIG_NAME="ifStringIsReapeted.cpp">
+      <option name="sourceFile" value="ifStringIsReapeted.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -120,12 +126,6 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maxStocks.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="maxStocks.cpp" CONFIG_NAME="maxStocks.cpp">
-      <option name="sourceFile" value="maxStocks.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="wildcardStringMatching.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="wildcardStringMatching.cpp" CONFIG_NAME="wildcardStringMatching.cpp">
       <option name="sourceFile" value="wildcardStringMatching.cpp" />
       <method v="2">
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.ifStringIsReapeted.cpp" />
         <item itemvalue="C/C++ File.wildcardStringMatching.cpp" />
         <item itemvalue="C/C++ File.antiDiagonalTraversal.cpp" />
         <item itemvalue="C/C++ File.largestSubMatrix.cpp" />
         <item itemvalue="C/C++ File.matrixDeterminant.cpp" />
-        <item itemvalue="C/C++ File.maxStocks.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,7 @@
       <workItem from="1703607789321" duration="666000" />
       <workItem from="1703666174640" duration="2384000" />
       <workItem from="1703748274960" duration="2060000" />
-      <workItem from="1703825391957" duration="751000" />
+      <workItem from="1703825391957" duration="1951000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
