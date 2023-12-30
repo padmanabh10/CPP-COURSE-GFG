@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg" />
+    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +56,7 @@
     "C/C++ File.TUT5.cpp.executor": "Run",
     "C/C++ File.TUT6.cpp (1).executor": "Run",
     "C/C++ File.TUT6.cpp.executor": "Run",
+    "C/C++ File.TUT7.cpp.executor": "Run",
     "C/C++ File.antiDiagonalTraversal.cpp.executor": "Run",
     "C/C++ File.consecutiveOneNotAllowed.cpp.executor": "Run",
     "C/C++ File.countOccurences.cpp.executor": "Run",
@@ -100,7 +103,13 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.ifStringIsReapeted.cpp">
+  <component name="RunManager" selected="C/C++ File.TUT7.cpp">
+    <configuration name="TUT7.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="TUT7.cpp" CONFIG_NAME="TUT7.cpp">
+      <option name="sourceFile" value="TUT7.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="antiDiagonalTraversal.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="antiDiagonalTraversal.cpp" CONFIG_NAME="antiDiagonalTraversal.cpp">
       <option name="sourceFile" value="antiDiagonalTraversal.cpp" />
       <method v="2">
@@ -119,12 +128,6 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="matrixDeterminant.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="matrixDeterminant.cpp" CONFIG_NAME="matrixDeterminant.cpp">
-      <option name="sourceFile" value="matrixDeterminant.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="wildcardStringMatching.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="wildcardStringMatching.cpp" CONFIG_NAME="wildcardStringMatching.cpp">
       <option name="sourceFile" value="wildcardStringMatching.cpp" />
       <method v="2">
@@ -133,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.TUT7.cpp" />
         <item itemvalue="C/C++ File.ifStringIsReapeted.cpp" />
         <item itemvalue="C/C++ File.wildcardStringMatching.cpp" />
         <item itemvalue="C/C++ File.antiDiagonalTraversal.cpp" />
         <item itemvalue="C/C++ File.largestSubMatrix.cpp" />
-        <item itemvalue="C/C++ File.matrixDeterminant.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +174,8 @@
       <workItem from="1703666174640" duration="2384000" />
       <workItem from="1703748274960" duration="2060000" />
       <workItem from="1703825391957" duration="1951000" />
+      <workItem from="1703923254314" duration="6000" />
+      <workItem from="1703923270558" duration="975000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
