@@ -74,6 +74,7 @@
     &quot;C/C++ File.modifiedGameOfNim.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.reachNthPoint.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.stringCount.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sumDivisibility.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.test .cpp (1).executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.test .cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.test.cpp.executor&quot;: &quot;Run&quot;,
@@ -103,21 +104,21 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.sumDivisibility.cpp">
+  <component name="RunManager" selected="C/C++ File.maxSumWithK.cpp">
     <configuration name="TUT7.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="TUT7.cpp" CONFIG_NAME="TUT7.cpp">
       <option name="sourceFile" value="TUT7.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="antiDiagonalTraversal.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="antiDiagonalTraversal.cpp" CONFIG_NAME="antiDiagonalTraversal.cpp">
-      <option name="sourceFile" value="antiDiagonalTraversal.cpp" />
+    <configuration name="ifStringIsReapeted.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="ifStringIsReapeted.cpp" CONFIG_NAME="ifStringIsReapeted.cpp">
+      <option name="sourceFile" value="ifStringIsReapeted.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifStringIsReapeted.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="ifStringIsReapeted.cpp" CONFIG_NAME="ifStringIsReapeted.cpp">
-      <option name="sourceFile" value="ifStringIsReapeted.cpp" />
+    <configuration name="maxSumWithK.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="maxSumWithK.cpp" CONFIG_NAME="maxSumWithK.cpp">
+      <option name="sourceFile" value="maxSumWithK.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -136,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.maxSumWithK.cpp" />
         <item itemvalue="C/C++ File.sumDivisibility.cpp" />
         <item itemvalue="C/C++ File.TUT7.cpp" />
         <item itemvalue="C/C++ File.ifStringIsReapeted.cpp" />
         <item itemvalue="C/C++ File.wildcardStringMatching.cpp" />
-        <item itemvalue="C/C++ File.antiDiagonalTraversal.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +178,8 @@
       <workItem from="1703923254314" duration="6000" />
       <workItem from="1703923270558" duration="975000" />
       <workItem from="1703966989865" duration="21000" />
-      <workItem from="1704124426752" duration="124000" />
+      <workItem from="1704124426752" duration="1018000" />
+      <workItem from="1704211651418" duration="713000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -435,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703967004224</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1704124847928</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1704124847928</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
