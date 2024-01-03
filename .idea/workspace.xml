@@ -9,9 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,63 +45,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.TUT1.cpp.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.TUT2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.TUT3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.TUT4.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.TUT5.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.TUT6.cpp (1).executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.TUT6.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.TUT7.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.antiDiagonalTraversal.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.consecutiveOneNotAllowed.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.countOccurences.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.distinctElementsOfArray.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.gameOfXOR.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.ifStringIsReapeted.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.isArraySorted.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.largestSubMatrix.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.matrixDeterminant.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.maxMeetingInRoom.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.maxStocks.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.maxSumWithoutAdjacent.cpp (1).executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.maxSumWithoutAdjacent.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.minCandy.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.modifiedGameOfNim.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.reachNthPoint.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.stringCount.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.sumDivisibility.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.test .cpp (1).executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.test .cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.test.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.trianglePattern .cpp (1).executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.trianglePattern .cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.wildcardStringMatching.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/C++ COURSE-GFG&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.TUT1.cpp.executor": "Debug",
+    "C/C++ File.TUT2.cpp.executor": "Run",
+    "C/C++ File.TUT3.cpp.executor": "Run",
+    "C/C++ File.TUT4.cpp.executor": "Run",
+    "C/C++ File.TUT5.cpp.executor": "Run",
+    "C/C++ File.TUT6.cpp (1).executor": "Run",
+    "C/C++ File.TUT6.cpp.executor": "Run",
+    "C/C++ File.TUT7.cpp.executor": "Run",
+    "C/C++ File.antiDiagonalTraversal.cpp.executor": "Run",
+    "C/C++ File.consecutiveOneNotAllowed.cpp.executor": "Run",
+    "C/C++ File.countOccurences.cpp.executor": "Run",
+    "C/C++ File.distinctElementsOfArray.cpp.executor": "Run",
+    "C/C++ File.gameOfXOR.cpp.executor": "Run",
+    "C/C++ File.ifStringIsReapeted.cpp.executor": "Run",
+    "C/C++ File.isArraySorted.cpp.executor": "Run",
+    "C/C++ File.largestSubMatrix.cpp.executor": "Run",
+    "C/C++ File.matrixDeterminant.cpp.executor": "Run",
+    "C/C++ File.maxMeetingInRoom.cpp.executor": "Run",
+    "C/C++ File.maxStocks.cpp.executor": "Run",
+    "C/C++ File.maxSumWithK.cpp.executor": "Run",
+    "C/C++ File.maxSumWithoutAdjacent.cpp (1).executor": "Run",
+    "C/C++ File.maxSumWithoutAdjacent.cpp.executor": "Run",
+    "C/C++ File.minCandy.cpp.executor": "Run",
+    "C/C++ File.modifiedGameOfNim.cpp.executor": "Run",
+    "C/C++ File.reachNthPoint.cpp.executor": "Run",
+    "C/C++ File.stringCount.cpp.executor": "Run",
+    "C/C++ File.sumDivisibility.cpp.executor": "Run",
+    "C/C++ File.test .cpp (1).executor": "Run",
+    "C/C++ File.test .cpp.executor": "Run",
+    "C/C++ File.test.cpp.executor": "Run",
+    "C/C++ File.trianglePattern .cpp (1).executor": "Run",
+    "C/C++ File.trianglePattern .cpp.executor": "Run",
+    "C/C++ File.wildcardStringMatching.cpp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/C++ COURSE-GFG",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;ObjectiveC&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "ObjectiveC"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="C/C++ File.maxSumWithK.cpp">
     <configuration name="TUT7.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="TUT7.cpp" CONFIG_NAME="TUT7.cpp">
       <option name="sourceFile" value="TUT7.cpp" />
@@ -179,7 +178,7 @@
       <workItem from="1703923270558" duration="975000" />
       <workItem from="1703966989865" duration="21000" />
       <workItem from="1704124426752" duration="1018000" />
-      <workItem from="1704211651418" duration="713000" />
+      <workItem from="1704211651418" duration="1010000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -445,7 +444,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704124847928</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1704212660452</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1704212660452</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
