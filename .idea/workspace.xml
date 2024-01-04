@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg" />
+    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +74,8 @@
     "C/C++ File.minCandy.cpp.executor": "Run",
     "C/C++ File.modifiedGameOfNim.cpp.executor": "Run",
     "C/C++ File.reachNthPoint.cpp.executor": "Run",
+    "C/C++ File.singleElement.cpp.executor": "Run",
+    "C/C++ File.smallestSubString.cpp.executor": "Run",
     "C/C++ File.stringCount.cpp.executor": "Run",
     "C/C++ File.sumDivisibility.cpp.executor": "Run",
     "C/C++ File.test .cpp (1).executor": "Run",
@@ -103,15 +107,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.maxSumWithK.cpp">
+  <component name="RunManager" selected="C/C++ File.singleElement.cpp">
     <configuration name="TUT7.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="TUT7.cpp" CONFIG_NAME="TUT7.cpp">
       <option name="sourceFile" value="TUT7.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ifStringIsReapeted.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="ifStringIsReapeted.cpp" CONFIG_NAME="ifStringIsReapeted.cpp">
-      <option name="sourceFile" value="ifStringIsReapeted.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -122,25 +120,31 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="singleElement.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="singleElement.cpp" CONFIG_NAME="singleElement.cpp">
+      <option name="sourceFile" value="singleElement.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="smallestSubString.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="smallestSubString.cpp" CONFIG_NAME="smallestSubString.cpp">
+      <option name="sourceFile" value="smallestSubString.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sumDivisibility.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="sumDivisibility.cpp" CONFIG_NAME="sumDivisibility.cpp">
       <option name="sourceFile" value="sumDivisibility.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wildcardStringMatching.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="wildcardStringMatching.cpp" CONFIG_NAME="wildcardStringMatching.cpp">
-      <option name="sourceFile" value="wildcardStringMatching.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.singleElement.cpp" />
+        <item itemvalue="C/C++ File.smallestSubString.cpp" />
         <item itemvalue="C/C++ File.maxSumWithK.cpp" />
         <item itemvalue="C/C++ File.sumDivisibility.cpp" />
         <item itemvalue="C/C++ File.TUT7.cpp" />
-        <item itemvalue="C/C++ File.ifStringIsReapeted.cpp" />
-        <item itemvalue="C/C++ File.wildcardStringMatching.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +183,8 @@
       <workItem from="1703966989865" duration="21000" />
       <workItem from="1704124426752" duration="1018000" />
       <workItem from="1704211651418" duration="1010000" />
+      <workItem from="1704299427219" duration="905000" />
+      <workItem from="1704383477262" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -452,7 +458,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704212660452</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1704299840067</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1704299840067</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
