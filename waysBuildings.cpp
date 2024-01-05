@@ -19,7 +19,7 @@ public:
 };
 int main(){
     int N;
-    cout<<"Enter No Plots on each side:\n";
+    cout<<"Enter No Plots on each side:";
     cin >> N;
     Solution ob;
     int ans = ob.TotalWays(N);
