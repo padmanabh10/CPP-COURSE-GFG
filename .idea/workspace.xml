@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg" />
+    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +77,7 @@
     &quot;C/C++ File.modifiedGameOfNim.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.queueTechfest.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.reachNthPoint.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.removeKdigits.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.searchPatternKMP.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.singleElement.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.smallestSubString.cpp.executor&quot;: &quot;Run&quot;,
@@ -195,6 +198,9 @@
       <workItem from="1704730421768" duration="693000" />
       <workItem from="1704820984354" duration="127000" />
       <workItem from="1704906535306" duration="387000" />
+      <workItem from="1704942707156" duration="214000" />
+      <workItem from="1704980078194" duration="7000" />
+      <workItem from="1705028675900" duration="351000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -540,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704906864541</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1704942904320</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1704942904320</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
