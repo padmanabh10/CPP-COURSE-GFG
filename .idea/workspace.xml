@@ -9,9 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +82,7 @@
     &quot;C/C++ File.maxSumWithoutAdjacent.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.merge2sortedLinkedListsInReverse.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.minCandy.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.minSprinklers.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.modifiedGameOfNim.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.modifyQueue.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.numberSequence.cpp.executor&quot;: &quot;Run&quot;,
@@ -127,21 +126,21 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.uniquePermutations.cpp">
-    <configuration name="duplicateRowInBinaryMatrix.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="duplicateRowInBinaryMatrix.cpp" CONFIG_NAME="duplicateRowInBinaryMatrix.cpp">
-      <option name="sourceFile" value="duplicateRowInBinaryMatrix.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="insertionSort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="insertionSort.cpp" CONFIG_NAME="insertionSort.cpp">
-      <option name="sourceFile" value="insertionSort.cpp" />
+  <component name="RunManager" selected="C/C++ File.distributeCandy.cpp">
+    <configuration name="distributeCandy.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="distributeCandy.cpp" CONFIG_NAME="distributeCandy.cpp">
+      <option name="sourceFile" value="distributeCandy.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="maxCourses.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="maxCourses.cpp" CONFIG_NAME="maxCourses.cpp">
       <option name="sourceFile" value="maxCourses.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minSprinklers.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="minSprinklers.cpp" CONFIG_NAME="minSprinklers.cpp">
+      <option name="sourceFile" value="minSprinklers.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -160,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.distributeCandy.cpp" />
+        <item itemvalue="C/C++ File.minSprinklers.cpp" />
         <item itemvalue="C/C++ File.uniquePermutations.cpp" />
         <item itemvalue="C/C++ File.numberSequence.cpp" />
         <item itemvalue="C/C++ File.maxCourses.cpp" />
-        <item itemvalue="C/C++ File.duplicateRowInBinaryMatrix.cpp" />
-        <item itemvalue="C/C++ File.insertionSort.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -221,14 +220,7 @@
       <workItem from="1705497754036" duration="736000" />
       <workItem from="1705498528750" duration="843000" />
       <workItem from="1705500082694" duration="250000" />
-    </task>
-    <task id="LOCAL-00003" summary="test1">
-      <option name="closed" value="true" />
-      <created>1702471776679</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1702471776679</updated>
+      <workItem from="1705587700274" duration="742000" />
     </task>
     <task id="LOCAL-00004" summary="gfg">
       <option name="closed" value="true" />
@@ -614,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705499821497</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1705588413700</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1705588413701</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
