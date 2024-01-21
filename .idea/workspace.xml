@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg" />
+    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +68,7 @@
     &quot;C/C++ File.consecutiveOneNotAllowed.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.countOccurences.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.distinctElementsOfArray.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.distributeCandy.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.duplicateRowInBinaryMatrix.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.gameOfXOR.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.ifStringIsReapeted.cpp.executor&quot;: &quot;Run&quot;,
@@ -221,14 +224,8 @@
       <workItem from="1705498528750" duration="843000" />
       <workItem from="1705500082694" duration="250000" />
       <workItem from="1705587700274" duration="742000" />
-    </task>
-    <task id="LOCAL-00004" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1702471833331</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1702471833331</updated>
+      <workItem from="1705737489221" duration="223000" />
+      <workItem from="1705737807432" duration="616000" />
     </task>
     <task id="LOCAL-00005" summary="gfg">
       <option name="closed" value="true" />
@@ -614,7 +611,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705588413701</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1705737700351</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1705737700351</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
