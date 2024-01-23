@@ -87,6 +87,7 @@
     &quot;C/C++ File.modifiedGameOfNim.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.modifyQueue.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.numberSequence.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.pathsWithSpecifiedSum.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.queueTechfest.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.reachNthPoint.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.removeKdigits.cpp.executor&quot;: &quot;Run&quot;,
@@ -128,7 +129,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.pathsWithSpecifiedSum.cpp">
+  <component name="RunManager" selected="C/C++ File.courseSchedule.cpp">
+    <configuration name="courseSchedule.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="courseSchedule.cpp" CONFIG_NAME="courseSchedule.cpp">
+      <option name="sourceFile" value="courseSchedule.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="distributeCandy.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="distributeCandy.cpp" CONFIG_NAME="distributeCandy.cpp">
       <option name="sourceFile" value="distributeCandy.cpp" />
       <method v="2">
@@ -147,12 +154,6 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="uniquePermutations.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="uniquePermutations.cpp" CONFIG_NAME="uniquePermutations.cpp">
-      <option name="sourceFile" value="uniquePermutations.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="vortexCover.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="vortexCover.cpp" CONFIG_NAME="vortexCover.cpp">
       <option name="sourceFile" value="vortexCover.cpp" />
       <method v="2">
@@ -161,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.courseSchedule.cpp" />
         <item itemvalue="C/C++ File.pathsWithSpecifiedSum.cpp" />
         <item itemvalue="C/C++ File.vortexCover.cpp" />
         <item itemvalue="C/C++ File.distributeCandy.cpp" />
         <item itemvalue="C/C++ File.minSprinklers.cpp" />
-        <item itemvalue="C/C++ File.uniquePermutations.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -225,14 +226,7 @@
       <workItem from="1705587700274" duration="742000" />
       <workItem from="1705737489221" duration="223000" />
       <workItem from="1705737807432" duration="716000" />
-    </task>
-    <task id="LOCAL-00006" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1702484727666</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1702484727666</updated>
+      <workItem from="1705938889118" duration="190000" />
     </task>
     <task id="LOCAL-00007" summary="gfg">
       <option name="closed" value="true" />
@@ -618,7 +612,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705846978743</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1705939071424</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1705939071424</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
