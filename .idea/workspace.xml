@@ -65,6 +65,7 @@
     &quot;C/C++ File.antiDiagonalTraversal.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.consecutiveOneNotAllowed.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.countOccurences.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.courseSchedule.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.distinctElementsOfArray.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.distributeCandy.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.duplicateRowInBinaryMatrix.cpp.executor&quot;: &quot;Run&quot;,
@@ -129,7 +130,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.courseSchedule.cpp">
+  <component name="RunManager" selected="C/C++ File.graphTreeOrNot.cpp">
     <configuration name="courseSchedule.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="courseSchedule.cpp" CONFIG_NAME="courseSchedule.cpp">
       <option name="sourceFile" value="courseSchedule.cpp" />
       <method v="2">
@@ -142,8 +143,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="minSprinklers.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="minSprinklers.cpp" CONFIG_NAME="minSprinklers.cpp">
-      <option name="sourceFile" value="minSprinklers.cpp" />
+    <configuration name="graphTreeOrNot.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="graphTreeOrNot.cpp" CONFIG_NAME="graphTreeOrNot.cpp">
+      <option name="sourceFile" value="graphTreeOrNot.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -162,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.graphTreeOrNot.cpp" />
         <item itemvalue="C/C++ File.courseSchedule.cpp" />
         <item itemvalue="C/C++ File.pathsWithSpecifiedSum.cpp" />
         <item itemvalue="C/C++ File.vortexCover.cpp" />
         <item itemvalue="C/C++ File.distributeCandy.cpp" />
-        <item itemvalue="C/C++ File.minSprinklers.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -227,14 +228,7 @@
       <workItem from="1705737489221" duration="223000" />
       <workItem from="1705737807432" duration="716000" />
       <workItem from="1705938889118" duration="190000" />
-    </task>
-    <task id="LOCAL-00007" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1702542657219</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1702542657219</updated>
+      <workItem from="1705978675397" duration="155000" />
     </task>
     <task id="LOCAL-00008" summary="gfg">
       <option name="closed" value="true" />
@@ -620,7 +614,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705939071424</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1705978819212</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1705978819212</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
