@@ -70,6 +70,7 @@
     &quot;C/C++ File.distributeCandy.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.duplicateRowInBinaryMatrix.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.gameOfXOR.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.graphTreeOrNot.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.ifStringIsReapeted.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.insertionSort.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.isArraySorted.cpp.executor&quot;: &quot;Run&quot;,
@@ -130,15 +131,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.graphTreeOrNot.cpp">
+  <component name="RunManager" selected="C/C++ File.shortestPrimePath.cpp">
     <configuration name="courseSchedule.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="courseSchedule.cpp" CONFIG_NAME="courseSchedule.cpp">
       <option name="sourceFile" value="courseSchedule.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="distributeCandy.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="distributeCandy.cpp" CONFIG_NAME="distributeCandy.cpp">
-      <option name="sourceFile" value="distributeCandy.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -155,6 +150,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="shortestPrimePath.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="shortestPrimePath.cpp" CONFIG_NAME="shortestPrimePath.cpp">
+      <option name="sourceFile" value="shortestPrimePath.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="vortexCover.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="vortexCover.cpp" CONFIG_NAME="vortexCover.cpp">
       <option name="sourceFile" value="vortexCover.cpp" />
       <method v="2">
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.shortestPrimePath.cpp" />
         <item itemvalue="C/C++ File.graphTreeOrNot.cpp" />
         <item itemvalue="C/C++ File.courseSchedule.cpp" />
         <item itemvalue="C/C++ File.pathsWithSpecifiedSum.cpp" />
         <item itemvalue="C/C++ File.vortexCover.cpp" />
-        <item itemvalue="C/C++ File.distributeCandy.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -229,14 +230,7 @@
       <workItem from="1705737807432" duration="716000" />
       <workItem from="1705938889118" duration="190000" />
       <workItem from="1705978675397" duration="155000" />
-    </task>
-    <task id="LOCAL-00008" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1702542669399</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1702542669399</updated>
+      <workItem from="1706115153516" duration="196000" />
     </task>
     <task id="LOCAL-00009" summary="gfg">
       <option name="closed" value="true" />
@@ -622,7 +616,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705978819212</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1706115339026</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1706115339026</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
