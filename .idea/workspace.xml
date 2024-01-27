@@ -71,6 +71,7 @@
     &quot;C/C++ File.distinctElementsOfArray.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.distributeCandy.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.duplicateRowInBinaryMatrix.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.fractionalKnapsack.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.gameOfXOR.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.graphTreeOrNot.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.ifStringIsReapeted.cpp.executor&quot;: &quot;Run&quot;,
@@ -134,7 +135,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.fractionalKnapsack.cpp">
+  <component name="RunManager" selected="C/C++ File.bracketsInMatrixChainMultiplication.cpp">
+    <configuration name="bracketsInMatrixChainMultiplication.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="bracketsInMatrixChainMultiplication.cpp" CONFIG_NAME="bracketsInMatrixChainMultiplication.cpp">
+      <option name="sourceFile" value="bracketsInMatrixChainMultiplication.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="courseSchedule.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="courseSchedule.cpp" CONFIG_NAME="courseSchedule.cpp">
       <option name="sourceFile" value="courseSchedule.cpp" />
       <method v="2">
@@ -153,12 +160,6 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pathsWithSpecifiedSum.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="pathsWithSpecifiedSum.cpp" CONFIG_NAME="pathsWithSpecifiedSum.cpp">
-      <option name="sourceFile" value="pathsWithSpecifiedSum.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="shortestPrimePath.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="shortestPrimePath.cpp" CONFIG_NAME="shortestPrimePath.cpp">
       <option name="sourceFile" value="shortestPrimePath.cpp" />
       <method v="2">
@@ -167,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.bracketsInMatrixChainMultiplication.cpp" />
         <item itemvalue="C/C++ File.fractionalKnapsack.cpp" />
         <item itemvalue="C/C++ File.shortestPrimePath.cpp" />
         <item itemvalue="C/C++ File.graphTreeOrNot.cpp" />
         <item itemvalue="C/C++ File.courseSchedule.cpp" />
-        <item itemvalue="C/C++ File.pathsWithSpecifiedSum.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -235,15 +236,8 @@
       <workItem from="1705978675397" duration="155000" />
       <workItem from="1706115153516" duration="196000" />
       <workItem from="1706200519649" duration="259000" />
-      <workItem from="1706285861075" duration="131000" />
-    </task>
-    <task id="LOCAL-00010" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1702617472541</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1702617472541</updated>
+      <workItem from="1706285861075" duration="195000" />
+      <workItem from="1706375279738" duration="457000" />
     </task>
     <task id="LOCAL-00011" summary="gfg">
       <option name="closed" value="true" />
@@ -629,7 +623,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706200705690</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1706286046376</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1706286046377</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
