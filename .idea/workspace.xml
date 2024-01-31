@@ -54,6 +54,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;C/C++ File.LCSofThreeStrings.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.TUT1.cpp.executor&quot;: &quot;Debug&quot;,
     &quot;C/C++ File.TUT2.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.TUT3.cpp.executor&quot;: &quot;Run&quot;,
@@ -136,7 +137,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.LCSofThreeStrings.cpp">
+  <component name="RunManager" selected="C/C++ File.insertAndSearchTrie.cpp">
     <configuration name="LCSofThreeStrings.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="LCSofThreeStrings.cpp" CONFIG_NAME="LCSofThreeStrings.cpp">
       <option name="sourceFile" value="LCSofThreeStrings.cpp" />
       <method v="2">
@@ -155,25 +156,25 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fractionalKnapsack.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="fractionalKnapsack.cpp" CONFIG_NAME="fractionalKnapsack.cpp">
-      <option name="sourceFile" value="fractionalKnapsack.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="hatesOne.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="hatesOne.cpp" CONFIG_NAME="hatesOne.cpp">
       <option name="sourceFile" value="hatesOne.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="insertAndSearchTrie.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="insertAndSearchTrie.cpp" CONFIG_NAME="insertAndSearchTrie.cpp">
+      <option name="sourceFile" value="insertAndSearchTrie.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.insertAndSearchTrie.cpp" />
         <item itemvalue="C/C++ File.LCSofThreeStrings.cpp" />
         <item itemvalue="C/C++ File.digitGroupingOfNumber.cpp" />
         <item itemvalue="C/C++ File.hatesOne.cpp" />
         <item itemvalue="C/C++ File.bracketsInMatrixChainMultiplication.cpp" />
-        <item itemvalue="C/C++ File.fractionalKnapsack.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -241,14 +242,7 @@
       <workItem from="1706375279738" duration="748000" />
       <workItem from="1706459411871" duration="217000" />
       <workItem from="1706550229561" duration="190000" />
-    </task>
-    <task id="LOCAL-00014" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1702895754964</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1702895754964</updated>
+      <workItem from="1706635778408" duration="98000" />
     </task>
     <task id="LOCAL-00015" summary="gfg">
       <option name="closed" value="true" />
@@ -634,7 +628,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706550414026</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1706635869412</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1706635869413</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
