@@ -77,6 +77,7 @@
     &quot;C/C++ File.graphTreeOrNot.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.hatesOne.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.ifStringIsReapeted.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.insertAndSearchTrie.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.insertionSort.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.isArraySorted.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.largestSubMatrix.cpp.executor&quot;: &quot;Run&quot;,
@@ -137,15 +138,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.insertAndSearchTrie.cpp">
+  <component name="RunManager" selected="C/C++ File.pangramChecking.cpp">
     <configuration name="LCSofThreeStrings.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="LCSofThreeStrings.cpp" CONFIG_NAME="LCSofThreeStrings.cpp">
       <option name="sourceFile" value="LCSofThreeStrings.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bracketsInMatrixChainMultiplication.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="bracketsInMatrixChainMultiplication.cpp" CONFIG_NAME="bracketsInMatrixChainMultiplication.cpp">
-      <option name="sourceFile" value="bracketsInMatrixChainMultiplication.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -168,13 +163,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pangramChecking.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="pangramChecking.cpp" CONFIG_NAME="pangramChecking.cpp">
+      <option name="sourceFile" value="pangramChecking.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.pangramChecking.cpp" />
         <item itemvalue="C/C++ File.insertAndSearchTrie.cpp" />
         <item itemvalue="C/C++ File.LCSofThreeStrings.cpp" />
         <item itemvalue="C/C++ File.digitGroupingOfNumber.cpp" />
         <item itemvalue="C/C++ File.hatesOne.cpp" />
-        <item itemvalue="C/C++ File.bracketsInMatrixChainMultiplication.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -243,14 +244,7 @@
       <workItem from="1706459411871" duration="217000" />
       <workItem from="1706550229561" duration="190000" />
       <workItem from="1706635778408" duration="98000" />
-    </task>
-    <task id="LOCAL-00015" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1702911054485</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1702911054485</updated>
+      <workItem from="1706718470555" duration="187000" />
     </task>
     <task id="LOCAL-00016" summary="gfg">
       <option name="closed" value="true" />
@@ -636,7 +630,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706635869413</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1706718613484</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1706718613484</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
