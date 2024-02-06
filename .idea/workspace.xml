@@ -108,6 +108,7 @@
     &quot;C/C++ File.shortestPrimePath.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.singleElement.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.smallestSubString.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sortedInsertCLL.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.splitArray.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.stringCount.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.subtractionInLL.cpp.executor&quot;: &quot;Run&quot;,
@@ -144,7 +145,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.sortedInsertCLL.cpp">
+  <component name="RunManager" selected="C/C++ File.nodesAtDistanceKfromLeaf.cpp">
     <configuration name="deximalEquivalentOfBinaryLL.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="deximalEquivalentOfBinaryLL.cpp" CONFIG_NAME="deximalEquivalentOfBinaryLL.cpp">
       <option name="sourceFile" value="deximalEquivalentOfBinaryLL.cpp" />
       <method v="2">
@@ -157,8 +158,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pangramChecking.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="pangramChecking.cpp" CONFIG_NAME="pangramChecking.cpp">
-      <option name="sourceFile" value="pangramChecking.cpp" />
+    <configuration name="nodesAtDistanceKfromLeaf.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="nodesAtDistanceKfromLeaf.cpp" CONFIG_NAME="nodesAtDistanceKfromLeaf.cpp">
+      <option name="sourceFile" value="nodesAtDistanceKfromLeaf.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -177,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.nodesAtDistanceKfromLeaf.cpp" />
         <item itemvalue="C/C++ File.sortedInsertCLL.cpp" />
         <item itemvalue="C/C++ File.subtractionInLL.cpp" />
         <item itemvalue="C/C++ File.deximalEquivalentOfBinaryLL.cpp" />
         <item itemvalue="C/C++ File.implementAtoI.cpp" />
-        <item itemvalue="C/C++ File.pangramChecking.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -256,15 +257,7 @@
       <workItem from="1706975083684" duration="131000" />
       <workItem from="1707025657271" duration="28000" />
       <workItem from="1707025698349" duration="1305000" />
-      <workItem from="1707140709354" duration="79000" />
-    </task>
-    <task id="LOCAL-00020" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1703140461692</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1703140461692</updated>
+      <workItem from="1707140709354" duration="708000" />
     </task>
     <task id="LOCAL-00021" summary="gfg">
       <option name="closed" value="true" />
@@ -650,7 +643,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707056059458</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1707140810954</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1707140810954</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
