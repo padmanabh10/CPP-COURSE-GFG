@@ -65,6 +65,7 @@
     &quot;C/C++ File.TUT7.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.antiDiagonalTraversal.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.bracketsInMatrixChainMultiplication.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.childrenSumParent.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.consecutiveOneNotAllowed.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.countOccurences.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.courseSchedule.cpp.executor&quot;: &quot;Run&quot;,
@@ -146,7 +147,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.childrenSumParent.cpp">
+  <component name="RunManager" selected="C/C++ File.pathsInMatrixWithKcoins.cpp">
     <configuration name="childrenSumParent.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="childrenSumParent.cpp" CONFIG_NAME="childrenSumParent.cpp">
       <option name="sourceFile" value="childrenSumParent.cpp" />
       <method v="2">
@@ -171,19 +172,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sortedInsertCLL.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="sortedInsertCLL.cpp" CONFIG_NAME="sortedInsertCLL.cpp">
-      <option name="sourceFile" value="sortedInsertCLL.cpp" />
+    <configuration name="pathsInMatrixWithKcoins.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="pathsInMatrixWithKcoins.cpp" CONFIG_NAME="pathsInMatrixWithKcoins.cpp">
+      <option name="sourceFile" value="pathsInMatrixWithKcoins.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.pathsInMatrixWithKcoins.cpp" />
         <item itemvalue="C/C++ File.childrenSumParent.cpp" />
         <item itemvalue="C/C++ File.leafAtSameLevel.cpp" />
         <item itemvalue="C/C++ File.minDistBetween2BinaryTreeNodes.cpp" />
         <item itemvalue="C/C++ File.nodesAtDistanceKfromLeaf.cpp" />
-        <item itemvalue="C/C++ File.sortedInsertCLL.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -262,14 +263,7 @@
       <workItem from="1707236519869" duration="315000" />
       <workItem from="1707321000025" duration="550000" />
       <workItem from="1707409691788" duration="345000" />
-    </task>
-    <task id="LOCAL-00024" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1703308019492</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1703308019492</updated>
+      <workItem from="1707493090598" duration="144000" />
     </task>
     <task id="LOCAL-00025" summary="gfg">
       <option name="closed" value="true" />
@@ -655,7 +649,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707409957844</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1707493225640</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1707493225640</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
