@@ -102,6 +102,7 @@
     &quot;C/C++ File.nodesAtDistanceKfromLeaf.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.numberSequence.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.pangramChecking.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.pathsInMatrixWithKcoins.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.pathsWithSpecifiedSum.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.queueTechfest.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.reachNthPoint.cpp.executor&quot;: &quot;Run&quot;,
@@ -147,7 +148,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.pathsInMatrixWithKcoins.cpp">
+  <component name="RunManager" selected="C/C++ File.recamansSequence.cpp">
     <configuration name="childrenSumParent.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="childrenSumParent.cpp" CONFIG_NAME="childrenSumParent.cpp">
       <option name="sourceFile" value="childrenSumParent.cpp" />
       <method v="2">
@@ -166,25 +167,25 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nodesAtDistanceKfromLeaf.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="nodesAtDistanceKfromLeaf.cpp" CONFIG_NAME="nodesAtDistanceKfromLeaf.cpp">
-      <option name="sourceFile" value="nodesAtDistanceKfromLeaf.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="pathsInMatrixWithKcoins.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="pathsInMatrixWithKcoins.cpp" CONFIG_NAME="pathsInMatrixWithKcoins.cpp">
       <option name="sourceFile" value="pathsInMatrixWithKcoins.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="recamansSequence.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="recamansSequence.cpp" CONFIG_NAME="recamansSequence.cpp">
+      <option name="sourceFile" value="recamansSequence.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.recamansSequence.cpp" />
         <item itemvalue="C/C++ File.pathsInMatrixWithKcoins.cpp" />
         <item itemvalue="C/C++ File.childrenSumParent.cpp" />
         <item itemvalue="C/C++ File.leafAtSameLevel.cpp" />
         <item itemvalue="C/C++ File.minDistBetween2BinaryTreeNodes.cpp" />
-        <item itemvalue="C/C++ File.nodesAtDistanceKfromLeaf.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -264,14 +265,7 @@
       <workItem from="1707321000025" duration="550000" />
       <workItem from="1707409691788" duration="345000" />
       <workItem from="1707493090598" duration="144000" />
-    </task>
-    <task id="LOCAL-00025" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1703435354612</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1703435354612</updated>
+      <workItem from="1707583081494" duration="696000" />
     </task>
     <task id="LOCAL-00026" summary="gfg">
       <option name="closed" value="true" />
@@ -657,7 +651,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707493225640</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1707583182437</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1707583182438</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
