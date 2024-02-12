@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg" />
+    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,6 +108,7 @@
     &quot;C/C++ File.pathsWithSpecifiedSum.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.queueTechfest.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.reachNthPoint.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.recamansSequence.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.removeKdigits.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.searchPatternKMP.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.shortestPrimePath.cpp.executor&quot;: &quot;Run&quot;,
@@ -148,7 +151,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.recamansSequence.cpp">
+  <component name="RunManager" selected="C/C++ File.recursionSequence.cpp">
     <configuration name="childrenSumParent.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="childrenSumParent.cpp" CONFIG_NAME="childrenSumParent.cpp">
       <option name="sourceFile" value="childrenSumParent.cpp" />
       <method v="2">
@@ -157,12 +160,6 @@
     </configuration>
     <configuration name="leafAtSameLevel.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="leafAtSameLevel.cpp" CONFIG_NAME="leafAtSameLevel.cpp">
       <option name="sourceFile" value="leafAtSameLevel.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="minDistBetween2BinaryTreeNodes.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="minDistBetween2BinaryTreeNodes.cpp" CONFIG_NAME="minDistBetween2BinaryTreeNodes.cpp">
-      <option name="sourceFile" value="minDistBetween2BinaryTreeNodes.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -179,13 +176,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="recursionSequence.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="recursionSequence.cpp" CONFIG_NAME="recursionSequence.cpp">
+      <option name="sourceFile" value="recursionSequence.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.recursionSequence.cpp" />
         <item itemvalue="C/C++ File.recamansSequence.cpp" />
         <item itemvalue="C/C++ File.pathsInMatrixWithKcoins.cpp" />
         <item itemvalue="C/C++ File.childrenSumParent.cpp" />
         <item itemvalue="C/C++ File.leafAtSameLevel.cpp" />
-        <item itemvalue="C/C++ File.minDistBetween2BinaryTreeNodes.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -266,14 +269,9 @@
       <workItem from="1707409691788" duration="345000" />
       <workItem from="1707493090598" duration="144000" />
       <workItem from="1707583081494" duration="696000" />
-    </task>
-    <task id="LOCAL-00026" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1703525137498</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1703525137498</updated>
+      <workItem from="1707660789848" duration="161000" />
+      <workItem from="1707660959372" duration="24000" />
+      <workItem from="1707755772429" duration="1223000" />
     </task>
     <task id="LOCAL-00027" summary="gfg">
       <option name="closed" value="true" />
@@ -659,7 +657,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707583182438</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1707660897659</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1707660897659</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
