@@ -109,6 +109,7 @@
     &quot;C/C++ File.queueTechfest.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.reachNthPoint.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.recamansSequence.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.recursionSequence.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.removeKdigits.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.searchPatternKMP.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.shortestPrimePath.cpp.executor&quot;: &quot;Run&quot;,
@@ -151,15 +152,15 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.recursionSequence.cpp">
+  <component name="RunManager" selected="C/C++ File.cloneGraph.cpp">
     <configuration name="childrenSumParent.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="childrenSumParent.cpp" CONFIG_NAME="childrenSumParent.cpp">
       <option name="sourceFile" value="childrenSumParent.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leafAtSameLevel.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="leafAtSameLevel.cpp" CONFIG_NAME="leafAtSameLevel.cpp">
-      <option name="sourceFile" value="leafAtSameLevel.cpp" />
+    <configuration name="cloneGraph.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="cloneGraph.cpp" CONFIG_NAME="cloneGraph.cpp">
+      <option name="sourceFile" value="cloneGraph.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -184,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.cloneGraph.cpp" />
         <item itemvalue="C/C++ File.recursionSequence.cpp" />
         <item itemvalue="C/C++ File.recamansSequence.cpp" />
         <item itemvalue="C/C++ File.pathsInMatrixWithKcoins.cpp" />
         <item itemvalue="C/C++ File.childrenSumParent.cpp" />
-        <item itemvalue="C/C++ File.leafAtSameLevel.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -271,15 +272,7 @@
       <workItem from="1707583081494" duration="696000" />
       <workItem from="1707660789848" duration="161000" />
       <workItem from="1707660959372" duration="24000" />
-      <workItem from="1707755772429" duration="1223000" />
-    </task>
-    <task id="LOCAL-00027" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1703525145927</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1703525145927</updated>
+      <workItem from="1707755772429" duration="2333000" />
     </task>
     <task id="LOCAL-00028" summary="gfg">
       <option name="closed" value="true" />
@@ -665,7 +658,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707660897659</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1707757554807</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1707757554807</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
