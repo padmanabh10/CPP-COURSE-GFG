@@ -67,6 +67,7 @@
     &quot;C/C++ File.TUT7.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.antiDiagonalTraversal.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.bracketsInMatrixChainMultiplication.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.castleRun.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.childrenSumParent.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.cloneGraph.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.consecutiveOneNotAllowed.cpp.executor&quot;: &quot;Run&quot;,
@@ -153,7 +154,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.castleRun.cpp">
+  <component name="RunManager" selected="C/C++ File.flattenBSTtoSortedList.cpp">
     <configuration name="castleRun.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="castleRun.cpp" CONFIG_NAME="castleRun.cpp">
       <option name="sourceFile" value="castleRun.cpp" />
       <method v="2">
@@ -166,8 +167,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pathsInMatrixWithKcoins.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="pathsInMatrixWithKcoins.cpp" CONFIG_NAME="pathsInMatrixWithKcoins.cpp">
-      <option name="sourceFile" value="pathsInMatrixWithKcoins.cpp" />
+    <configuration name="flattenBSTtoSortedList.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="flattenBSTtoSortedList.cpp" CONFIG_NAME="flattenBSTtoSortedList.cpp">
+      <option name="sourceFile" value="flattenBSTtoSortedList.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -186,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.flattenBSTtoSortedList.cpp" />
         <item itemvalue="C/C++ File.castleRun.cpp" />
         <item itemvalue="C/C++ File.cloneGraph.cpp" />
         <item itemvalue="C/C++ File.recursionSequence.cpp" />
         <item itemvalue="C/C++ File.recamansSequence.cpp" />
-        <item itemvalue="C/C++ File.pathsInMatrixWithKcoins.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -275,15 +276,8 @@
       <workItem from="1707660959372" duration="24000" />
       <workItem from="1707755772429" duration="2333000" />
       <workItem from="1707844128291" duration="163000" />
-      <workItem from="1708017666645" duration="53000" />
-    </task>
-    <task id="LOCAL-00029" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1703694817238</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1703694817238</updated>
+      <workItem from="1708017666645" duration="122000" />
+      <workItem from="1708098569358" duration="447000" />
     </task>
     <task id="LOCAL-00030" summary="gfg">
       <option name="closed" value="true" />
@@ -669,7 +663,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707844246290</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1708017758693</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1708017758693</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
