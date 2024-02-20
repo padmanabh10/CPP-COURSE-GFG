@@ -80,6 +80,7 @@
     &quot;C/C++ File.flattenBSTtoSortedList.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.fractionalKnapsack.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.gameOfXOR.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.gameWithString.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.graphTreeOrNot.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.hatesOne.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.ifStringIsReapeted.cpp.executor&quot;: &quot;Run&quot;,
@@ -155,15 +156,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.gameWithString.cpp">
+  <component name="RunManager" selected="C/C++ File.wordBreak.cpp">
     <configuration name="arrayRepresentingHeap.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="arrayRepresentingHeap.cpp" CONFIG_NAME="arrayRepresentingHeap.cpp">
       <option name="sourceFile" value="arrayRepresentingHeap.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="castleRun.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="castleRun.cpp" CONFIG_NAME="castleRun.cpp">
-      <option name="sourceFile" value="castleRun.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -186,13 +181,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="wordBreak.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="wordBreak.cpp" CONFIG_NAME="wordBreak.cpp">
+      <option name="sourceFile" value="wordBreak.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.wordBreak.cpp" />
         <item itemvalue="C/C++ File.gameWithString.cpp" />
         <item itemvalue="C/C++ File.sumOfLeafNodes.cpp" />
         <item itemvalue="C/C++ File.arrayRepresentingHeap.cpp" />
         <item itemvalue="C/C++ File.flattenBSTtoSortedList.cpp" />
-        <item itemvalue="C/C++ File.castleRun.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -281,14 +282,7 @@
       <workItem from="1708098569358" duration="573000" />
       <workItem from="1708190841247" duration="103000" />
       <workItem from="1708274252375" duration="125000" />
-    </task>
-    <task id="LOCAL-00033" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1704124847928</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1704124847928</updated>
+      <workItem from="1708363082023" duration="123000" />
     </task>
     <task id="LOCAL-00034" summary="gfg">
       <option name="closed" value="true" />
@@ -674,7 +668,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708274342552</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1708363199196</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1708363199196</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
