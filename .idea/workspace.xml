@@ -133,6 +133,7 @@
     &quot;C/C++ File.vortexCover.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.waysBuildings.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.wildcardStringMatching.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.wordBreak.cpp.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
@@ -156,15 +157,15 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.wordBreak.cpp">
+  <component name="RunManager" selected="C/C++ File.booleanParanthesization.cpp">
     <configuration name="arrayRepresentingHeap.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="arrayRepresentingHeap.cpp" CONFIG_NAME="arrayRepresentingHeap.cpp">
       <option name="sourceFile" value="arrayRepresentingHeap.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="flattenBSTtoSortedList.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="flattenBSTtoSortedList.cpp" CONFIG_NAME="flattenBSTtoSortedList.cpp">
-      <option name="sourceFile" value="flattenBSTtoSortedList.cpp" />
+    <configuration name="booleanParanthesization.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="booleanParanthesization.cpp" CONFIG_NAME="booleanParanthesization.cpp">
+      <option name="sourceFile" value="booleanParanthesization.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -189,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.booleanParanthesization.cpp" />
         <item itemvalue="C/C++ File.wordBreak.cpp" />
         <item itemvalue="C/C++ File.gameWithString.cpp" />
         <item itemvalue="C/C++ File.sumOfLeafNodes.cpp" />
         <item itemvalue="C/C++ File.arrayRepresentingHeap.cpp" />
-        <item itemvalue="C/C++ File.flattenBSTtoSortedList.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -283,14 +284,7 @@
       <workItem from="1708190841247" duration="103000" />
       <workItem from="1708274252375" duration="125000" />
       <workItem from="1708363082023" duration="123000" />
-    </task>
-    <task id="LOCAL-00034" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1704212660452</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1704212660452</updated>
+      <workItem from="1708452722540" duration="120000" />
     </task>
     <task id="LOCAL-00035" summary="gfg">
       <option name="closed" value="true" />
@@ -676,7 +670,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708363199196</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1708452798777</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1708452798777</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
