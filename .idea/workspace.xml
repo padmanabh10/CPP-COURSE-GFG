@@ -65,6 +65,7 @@
     &quot;C/C++ File.TUT7.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.antiDiagonalTraversal.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.arrayRepresentingHeap.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.booleanParanthesization.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.bracketsInMatrixChainMultiplication.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.castleRun.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.childrenSumParent.cpp.executor&quot;: &quot;Run&quot;,
@@ -157,15 +158,15 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.booleanParanthesization.cpp">
-    <configuration name="arrayRepresentingHeap.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="arrayRepresentingHeap.cpp" CONFIG_NAME="arrayRepresentingHeap.cpp">
-      <option name="sourceFile" value="arrayRepresentingHeap.cpp" />
+  <component name="RunManager" selected="C/C++ File.distinctOccurances.cpp">
+    <configuration name="booleanParanthesization.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="booleanParanthesization.cpp" CONFIG_NAME="booleanParanthesization.cpp">
+      <option name="sourceFile" value="booleanParanthesization.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="booleanParanthesization.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="booleanParanthesization.cpp" CONFIG_NAME="booleanParanthesization.cpp">
-      <option name="sourceFile" value="booleanParanthesization.cpp" />
+    <configuration name="distinctOccurances.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="distinctOccurances.cpp" CONFIG_NAME="distinctOccurances.cpp">
+      <option name="sourceFile" value="distinctOccurances.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -190,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.distinctOccurances.cpp" />
         <item itemvalue="C/C++ File.booleanParanthesization.cpp" />
         <item itemvalue="C/C++ File.wordBreak.cpp" />
         <item itemvalue="C/C++ File.gameWithString.cpp" />
         <item itemvalue="C/C++ File.sumOfLeafNodes.cpp" />
-        <item itemvalue="C/C++ File.arrayRepresentingHeap.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -285,14 +286,7 @@
       <workItem from="1708274252375" duration="125000" />
       <workItem from="1708363082023" duration="123000" />
       <workItem from="1708452722540" duration="120000" />
-    </task>
-    <task id="LOCAL-00035" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1704299840067</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1704299840067</updated>
+      <workItem from="1708533446502" duration="244000" />
     </task>
     <task id="LOCAL-00036" summary="gfg">
       <option name="closed" value="true" />
@@ -678,7 +672,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708452798777</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1708533682213</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1708533682213</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
