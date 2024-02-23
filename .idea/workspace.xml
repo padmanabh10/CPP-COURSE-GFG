@@ -76,6 +76,7 @@
     &quot;C/C++ File.deximalEquivalentOfBinaryLL.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.digitGroupingOfNumber.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.distinctElementsOfArray.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.distinctOccurances.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.distributeCandy.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.duplicateRowInBinaryMatrix.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.flattenBSTtoSortedList.cpp.executor&quot;: &quot;Run&quot;,
@@ -158,9 +159,15 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.distinctOccurances.cpp">
+  <component name="RunManager" selected="C/C++ File.buyAndSellShare.cpp">
     <configuration name="booleanParanthesization.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="booleanParanthesization.cpp" CONFIG_NAME="booleanParanthesization.cpp">
       <option name="sourceFile" value="booleanParanthesization.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="buyAndSellShare.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="buyAndSellShare.cpp" CONFIG_NAME="buyAndSellShare.cpp">
+      <option name="sourceFile" value="buyAndSellShare.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -177,12 +184,6 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumOfLeafNodes.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="sumOfLeafNodes.cpp" CONFIG_NAME="sumOfLeafNodes.cpp">
-      <option name="sourceFile" value="sumOfLeafNodes.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="wordBreak.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="wordBreak.cpp" CONFIG_NAME="wordBreak.cpp">
       <option name="sourceFile" value="wordBreak.cpp" />
       <method v="2">
@@ -191,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.buyAndSellShare.cpp" />
         <item itemvalue="C/C++ File.distinctOccurances.cpp" />
         <item itemvalue="C/C++ File.booleanParanthesization.cpp" />
         <item itemvalue="C/C++ File.wordBreak.cpp" />
         <item itemvalue="C/C++ File.gameWithString.cpp" />
-        <item itemvalue="C/C++ File.sumOfLeafNodes.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -287,14 +288,7 @@
       <workItem from="1708363082023" duration="123000" />
       <workItem from="1708452722540" duration="120000" />
       <workItem from="1708533446502" duration="244000" />
-    </task>
-    <task id="LOCAL-00036" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1704384019690</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1704384019690</updated>
+      <workItem from="1708623215556" duration="102000" />
     </task>
     <task id="LOCAL-00037" summary="gfg">
       <option name="closed" value="true" />
@@ -680,7 +674,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708533682213</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1708623303120</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1708623303121</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
