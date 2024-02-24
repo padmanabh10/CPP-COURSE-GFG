@@ -67,6 +67,7 @@
     &quot;C/C++ File.arrayRepresentingHeap.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.booleanParanthesization.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.bracketsInMatrixChainMultiplication.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.buyAndSellShare.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.castleRun.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.childrenSumParent.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.cloneGraph.cpp.executor&quot;: &quot;Run&quot;,
@@ -159,7 +160,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.buyAndSellShare.cpp">
+  <component name="RunManager" selected="C/C++ File.maxSumProblem.cpp">
     <configuration name="booleanParanthesization.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="booleanParanthesization.cpp" CONFIG_NAME="booleanParanthesization.cpp">
       <option name="sourceFile" value="booleanParanthesization.cpp" />
       <method v="2">
@@ -178,8 +179,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gameWithString.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="gameWithString.cpp" CONFIG_NAME="gameWithString.cpp">
-      <option name="sourceFile" value="gameWithString.cpp" />
+    <configuration name="maxSumProblem.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="maxSumProblem.cpp" CONFIG_NAME="maxSumProblem.cpp">
+      <option name="sourceFile" value="maxSumProblem.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -192,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.maxSumProblem.cpp" />
         <item itemvalue="C/C++ File.buyAndSellShare.cpp" />
         <item itemvalue="C/C++ File.distinctOccurances.cpp" />
         <item itemvalue="C/C++ File.booleanParanthesization.cpp" />
         <item itemvalue="C/C++ File.wordBreak.cpp" />
-        <item itemvalue="C/C++ File.gameWithString.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -289,14 +290,7 @@
       <workItem from="1708452722540" duration="120000" />
       <workItem from="1708533446502" duration="244000" />
       <workItem from="1708623215556" duration="102000" />
-    </task>
-    <task id="LOCAL-00037" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1704473505051</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1704473505051</updated>
+      <workItem from="1708711114325" duration="201000" />
     </task>
     <task id="LOCAL-00038" summary="gfg">
       <option name="closed" value="true" />
@@ -682,7 +676,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708623303121</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1708711308825</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1708711308825</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
