@@ -115,6 +115,7 @@
     &quot;C/C++ File.pangramChecking.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.pathsInMatrixWithKcoins.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.pathsWithSpecifiedSum.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.powerSet.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.queueTechfest.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.reachNthPoint.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.reachTheGivenScore.cpp.executor&quot;: &quot;Run&quot;,
@@ -164,21 +165,21 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.powerSet.cpp">
+  <component name="RunManager" selected="C/C++ File.playWithOR.cpp">
     <configuration name="buyAndSellShare.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="buyAndSellShare.cpp" CONFIG_NAME="buyAndSellShare.cpp">
       <option name="sourceFile" value="buyAndSellShare.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="distinctOccurances.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="distinctOccurances.cpp" CONFIG_NAME="distinctOccurances.cpp">
-      <option name="sourceFile" value="distinctOccurances.cpp" />
+    <configuration name="maxSumProblem.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="maxSumProblem.cpp" CONFIG_NAME="maxSumProblem.cpp">
+      <option name="sourceFile" value="maxSumProblem.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maxSumProblem.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="maxSumProblem.cpp" CONFIG_NAME="maxSumProblem.cpp">
-      <option name="sourceFile" value="maxSumProblem.cpp" />
+    <configuration name="playWithOR.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="playWithOR.cpp" CONFIG_NAME="playWithOR.cpp">
+      <option name="sourceFile" value="playWithOR.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -197,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.playWithOR.cpp" />
         <item itemvalue="C/C++ File.powerSet.cpp" />
         <item itemvalue="C/C++ File.reachTheGivenScore.cpp" />
         <item itemvalue="C/C++ File.maxSumProblem.cpp" />
         <item itemvalue="C/C++ File.buyAndSellShare.cpp" />
-        <item itemvalue="C/C++ File.distinctOccurances.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -297,15 +298,8 @@
       <workItem from="1708711114325" duration="201000" />
       <workItem from="1708798504413" duration="662000" />
       <workItem from="1708881853224" duration="90000" />
-      <workItem from="1708966200029" duration="84000" />
-    </task>
-    <task id="LOCAL-00040" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1704647647271</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1704647647271</updated>
+      <workItem from="1708966200029" duration="157000" />
+      <workItem from="1708966365856" duration="399000" />
     </task>
     <task id="LOCAL-00041" summary="gfg">
       <option name="closed" value="true" />
@@ -691,7 +685,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708881935988</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1708966329976</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1708966329976</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
