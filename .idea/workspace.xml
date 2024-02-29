@@ -52,127 +52,122 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.LCSofThreeStrings.cpp.executor": "Run",
-    "C/C++ File.TUT1.cpp.executor": "Debug",
-    "C/C++ File.TUT2.cpp.executor": "Run",
-    "C/C++ File.TUT3.cpp.executor": "Run",
-    "C/C++ File.TUT4.cpp.executor": "Run",
-    "C/C++ File.TUT5.cpp.executor": "Run",
-    "C/C++ File.TUT6.cpp (1).executor": "Run",
-    "C/C++ File.TUT6.cpp.executor": "Run",
-    "C/C++ File.TUT7.cpp.executor": "Run",
-    "C/C++ File.antiDiagonalTraversal.cpp.executor": "Run",
-    "C/C++ File.arrayRepresentingHeap.cpp.executor": "Run",
-    "C/C++ File.booleanParanthesization.cpp.executor": "Run",
-    "C/C++ File.bracketsInMatrixChainMultiplication.cpp.executor": "Run",
-    "C/C++ File.buyAndSellShare.cpp.executor": "Run",
-    "C/C++ File.castleRun.cpp.executor": "Run",
-    "C/C++ File.childrenSumParent.cpp.executor": "Run",
-    "C/C++ File.cloneGraph.cpp.executor": "Run",
-    "C/C++ File.consecutiveOneNotAllowed.cpp.executor": "Run",
-    "C/C++ File.countOccurences.cpp.executor": "Run",
-    "C/C++ File.courseSchedule.cpp.executor": "Run",
-    "C/C++ File.deximalEquivalentOfBinaryLL.cpp.executor": "Run",
-    "C/C++ File.digitGroupingOfNumber.cpp.executor": "Run",
-    "C/C++ File.distinctElementsOfArray.cpp.executor": "Run",
-    "C/C++ File.distinctOccurances.cpp.executor": "Run",
-    "C/C++ File.distributeCandy.cpp.executor": "Run",
-    "C/C++ File.duplicateRowInBinaryMatrix.cpp.executor": "Run",
-    "C/C++ File.flattenBSTtoSortedList.cpp.executor": "Run",
-    "C/C++ File.fractionalKnapsack.cpp.executor": "Run",
-    "C/C++ File.gameOfXOR.cpp.executor": "Run",
-    "C/C++ File.gameWithString.cpp.executor": "Run",
-    "C/C++ File.graphTreeOrNot.cpp.executor": "Run",
-    "C/C++ File.hatesOne.cpp.executor": "Run",
-    "C/C++ File.ifStringIsReapeted.cpp.executor": "Run",
-    "C/C++ File.implementAtoI.cpp.executor": "Run",
-    "C/C++ File.insertAndSearchTrie.cpp.executor": "Run",
-    "C/C++ File.insertionSort.cpp.executor": "Run",
-    "C/C++ File.isArraySorted.cpp.executor": "Run",
-    "C/C++ File.largestSubMatrix.cpp.executor": "Run",
-    "C/C++ File.leafAtSameLevel.cpp.executor": "Run",
-    "C/C++ File.longSubarrWthSumDivByK.cpp.executor": "Run",
-    "C/C++ File.matrixDeterminant.cpp.executor": "Run",
-    "C/C++ File.maxCourses.cpp.executor": "Run",
-    "C/C++ File.maxMeetingInRoom.cpp.executor": "Run",
-    "C/C++ File.maxStocks.cpp.executor": "Run",
-    "C/C++ File.maxSumProblem.cpp.executor": "Run",
-    "C/C++ File.maxSumWithK.cpp.executor": "Run",
-    "C/C++ File.maxSumWithoutAdjacent.cpp (1).executor": "Run",
-    "C/C++ File.maxSumWithoutAdjacent.cpp.executor": "Run",
-    "C/C++ File.merge2sortedLinkedListsInReverse.cpp.executor": "Run",
-    "C/C++ File.minCandy.cpp.executor": "Run",
-    "C/C++ File.minDistBetween2BinaryTreeNodes.cpp.executor": "Run",
-    "C/C++ File.minSprinklers.cpp.executor": "Run",
-    "C/C++ File.modifiedGameOfNim.cpp.executor": "Run",
-    "C/C++ File.modifyQueue.cpp.executor": "Run",
-    "C/C++ File.nodesAtDistanceKfromLeaf.cpp.executor": "Run",
-    "C/C++ File.numberSequence.cpp.executor": "Run",
-    "C/C++ File.pangramChecking.cpp.executor": "Run",
-    "C/C++ File.pathsInMatrixWithKcoins.cpp.executor": "Run",
-    "C/C++ File.pathsWithSpecifiedSum.cpp.executor": "Run",
-    "C/C++ File.playWithOR.cpp.executor": "Run",
-    "C/C++ File.powerSet.cpp.executor": "Run",
-    "C/C++ File.queueTechfest.cpp.executor": "Run",
-    "C/C++ File.reachNthPoint.cpp.executor": "Run",
-    "C/C++ File.reachTheGivenScore.cpp.executor": "Run",
-    "C/C++ File.recamansSequence.cpp.executor": "Run",
-    "C/C++ File.recursionSequence.cpp.executor": "Run",
-    "C/C++ File.removeKdigits.cpp.executor": "Run",
-    "C/C++ File.searchPatternKMP.cpp.executor": "Run",
-    "C/C++ File.shortestPrimePath.cpp.executor": "Run",
-    "C/C++ File.singleElement.cpp.executor": "Run",
-    "C/C++ File.smallestSubString.cpp.executor": "Run",
-    "C/C++ File.sortedInsertCLL.cpp.executor": "Run",
-    "C/C++ File.splitArray.cpp.executor": "Run",
-    "C/C++ File.stringCount.cpp.executor": "Run",
-    "C/C++ File.subtractionInLL.cpp.executor": "Run",
-    "C/C++ File.sumDivisibility.cpp.executor": "Run",
-    "C/C++ File.sumOfLeafNodes.cpp.executor": "Run",
-    "C/C++ File.test .cpp (1).executor": "Run",
-    "C/C++ File.test .cpp.executor": "Run",
-    "C/C++ File.test.cpp.executor": "Run",
-    "C/C++ File.trianglePattern .cpp (1).executor": "Run",
-    "C/C++ File.trianglePattern .cpp.executor": "Run",
-    "C/C++ File.uniquePermutations.cpp.executor": "Run",
-    "C/C++ File.vortexCover.cpp.executor": "Run",
-    "C/C++ File.waysBuildings.cpp.executor": "Run",
-    "C/C++ File.wildcardStringMatching.cpp.executor": "Run",
-    "C/C++ File.wordBreak.cpp.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/C++ COURSE-GFG",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "structure.view.defaults.are.configured": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.LCSofThreeStrings.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TUT1.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.TUT2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TUT3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TUT4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TUT5.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TUT6.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TUT6.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TUT7.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.antiDiagonalTraversal.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.arrayRepresentingHeap.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.booleanParanthesization.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.bracketsInMatrixChainMultiplication.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.buyAndSellShare.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.castleRun.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.childrenSumParent.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.cloneGraph.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.consecutiveOneNotAllowed.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.countOccurences.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.courseSchedule.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.deximalEquivalentOfBinaryLL.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.digitGroupingOfNumber.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.distinctElementsOfArray.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.distinctOccurances.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.distributeCandy.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.divisibleBy8.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.duplicateRowInBinaryMatrix.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.flattenBSTtoSortedList.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.fractionalKnapsack.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.gameOfXOR.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.gameWithString.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.graphTreeOrNot.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.hatesOne.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ifStringIsReapeted.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.implementAtoI.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.insertAndSearchTrie.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.insertionSort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.isArraySorted.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.largestSubMatrix.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.leafAtSameLevel.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.longSubarrWthSumDivByK.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.matrixDeterminant.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.maxCourses.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.maxMeetingInRoom.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.maxStocks.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.maxSumProblem.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.maxSumWithK.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.maxSumWithoutAdjacent.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.maxSumWithoutAdjacent.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.merge2sortedLinkedListsInReverse.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.minCandy.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.minDistBetween2BinaryTreeNodes.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.minSprinklers.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.modifiedGameOfNim.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.modifyQueue.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.nodesAtDistanceKfromLeaf.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.numberSequence.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.pangramChecking.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.pathsInMatrixWithKcoins.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.pathsWithSpecifiedSum.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.playWithOR.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.powerSet.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.queueTechfest.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.reachNthPoint.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.reachTheGivenScore.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.recamansSequence.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.recursionSequence.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.removeKdigits.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.searchPatternKMP.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.shortestPrimePath.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.singleElement.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.smallestSubString.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sortedInsertCLL.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.splitArray.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.stringCount.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.subtractionInLL.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sumDivisibility.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sumOfLeafNodes.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.test .cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.test .cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.test.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.trianglePattern .cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.trianglePattern .cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.uniquePermutations.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.vortexCover.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.waysBuildings.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.wildcardStringMatching.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.wordBreak.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/C++ COURSE-GFG&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "ObjectiveC"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;ObjectiveC&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="C/C++ File.playWithOR.cpp">
-    <configuration name="buyAndSellShare.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="buyAndSellShare.cpp" CONFIG_NAME="buyAndSellShare.cpp">
-      <option name="sourceFile" value="buyAndSellShare.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="maxSumProblem.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="maxSumProblem.cpp" CONFIG_NAME="maxSumProblem.cpp">
-      <option name="sourceFile" value="maxSumProblem.cpp" />
+}</component>
+  <component name="RunManager" selected="C/C++ File.sumOfBitDifferebces.cpp">
+    <configuration name="divisibleBy8.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="divisibleBy8.cpp" CONFIG_NAME="divisibleBy8.cpp">
+      <option name="sourceFile" value="divisibleBy8.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -195,13 +190,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sumOfBitDifferebces.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="sumOfBitDifferebces.cpp" CONFIG_NAME="sumOfBitDifferebces.cpp">
+      <option name="sourceFile" value="sumOfBitDifferebces.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.sumOfBitDifferebces.cpp" />
+        <item itemvalue="C/C++ File.divisibleBy8.cpp" />
         <item itemvalue="C/C++ File.playWithOR.cpp" />
         <item itemvalue="C/C++ File.powerSet.cpp" />
         <item itemvalue="C/C++ File.reachTheGivenScore.cpp" />
-        <item itemvalue="C/C++ File.maxSumProblem.cpp" />
-        <item itemvalue="C/C++ File.buyAndSellShare.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -300,14 +301,8 @@
       <workItem from="1708966200029" duration="157000" />
       <workItem from="1708966365856" duration="399000" />
       <workItem from="1709056241237" duration="66000" />
-    </task>
-    <task id="LOCAL-00042" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1704821105433</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1704821105433</updated>
+      <workItem from="1709135343549" duration="104000" />
+      <workItem from="1709136593845" duration="2000" />
     </task>
     <task id="LOCAL-00043" summary="gfg">
       <option name="closed" value="true" />
@@ -693,7 +688,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709056300685</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1709135435745</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1709135435745</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
