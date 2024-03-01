@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg" />
+    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,6 +133,7 @@
     &quot;C/C++ File.stringCount.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.subtractionInLL.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.sumDivisibility.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sumOfBitDifferebces.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.sumOfLeafNodes.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.test .cpp (1).executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.test .cpp.executor&quot;: &quot;Run&quot;,
@@ -165,9 +168,15 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.sumOfBitDifferebces.cpp">
+  <component name="RunManager" selected="C/C++ File.peakElement.cpp">
     <configuration name="divisibleBy8.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="divisibleBy8.cpp" CONFIG_NAME="divisibleBy8.cpp">
       <option name="sourceFile" value="divisibleBy8.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="peakElement.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="peakElement.cpp" CONFIG_NAME="peakElement.cpp">
+      <option name="sourceFile" value="peakElement.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -184,12 +193,6 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reachTheGivenScore.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="reachTheGivenScore.cpp" CONFIG_NAME="reachTheGivenScore.cpp">
-      <option name="sourceFile" value="reachTheGivenScore.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="sumOfBitDifferebces.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="sumOfBitDifferebces.cpp" CONFIG_NAME="sumOfBitDifferebces.cpp">
       <option name="sourceFile" value="sumOfBitDifferebces.cpp" />
       <method v="2">
@@ -198,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.peakElement.cpp" />
         <item itemvalue="C/C++ File.sumOfBitDifferebces.cpp" />
         <item itemvalue="C/C++ File.divisibleBy8.cpp" />
         <item itemvalue="C/C++ File.playWithOR.cpp" />
         <item itemvalue="C/C++ File.powerSet.cpp" />
-        <item itemvalue="C/C++ File.reachTheGivenScore.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -303,14 +306,8 @@
       <workItem from="1709056241237" duration="66000" />
       <workItem from="1709135343549" duration="104000" />
       <workItem from="1709136593845" duration="2000" />
-    </task>
-    <task id="LOCAL-00043" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1704906864541</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1704906864541</updated>
+      <workItem from="1709173490250" duration="133000" />
+      <workItem from="1709314969100" duration="83000" />
     </task>
     <task id="LOCAL-00044" summary="gfg">
       <option name="closed" value="true" />
@@ -696,7 +693,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709135435745</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1709173613395</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1709173613395</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
