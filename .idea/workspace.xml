@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg" />
+    <list default="true" id="035d0257-ec88-484c-816b-6abe318e29cb" name="Changes" comment="gfg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,6 +123,7 @@
     &quot;C/C++ File.playWithOR.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.powerSet.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.queueTechfest.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.rabinKarpAlgorithm.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.reachNthPoint.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.reachTheGivenScore.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.recamansSequence.cpp.executor&quot;: &quot;Run&quot;,
@@ -171,15 +174,15 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.rabinKarpAlgorithm.cpp">
-    <configuration name="firstElementToAppearKtimes.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="firstElementToAppearKtimes.cpp" CONFIG_NAME="firstElementToAppearKtimes.cpp">
-      <option name="sourceFile" value="firstElementToAppearKtimes.cpp" />
+  <component name="RunManager" selected="C/C++ File.longestRepeatingNonOverlappingSubstring.cpp">
+    <configuration name="largestNumberFromStringArray.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="largestNumberFromStringArray.cpp" CONFIG_NAME="largestNumberFromStringArray.cpp">
+      <option name="sourceFile" value="largestNumberFromStringArray.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="largestNumberFromStringArray.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="largestNumberFromStringArray.cpp" CONFIG_NAME="largestNumberFromStringArray.cpp">
-      <option name="sourceFile" value="largestNumberFromStringArray.cpp" />
+    <configuration name="longestRepeatingNonOverlappingSubstring.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="longestRepeatingNonOverlappingSubstring.cpp" CONFIG_NAME="longestRepeatingNonOverlappingSubstring.cpp">
+      <option name="sourceFile" value="longestRepeatingNonOverlappingSubstring.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -204,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.longestRepeatingNonOverlappingSubstring.cpp" />
         <item itemvalue="C/C++ File.rabinKarpAlgorithm.cpp" />
         <item itemvalue="C/C++ File.maximumIndex.cpp" />
         <item itemvalue="C/C++ File.swapArrayElements.cpp" />
         <item itemvalue="C/C++ File.largestNumberFromStringArray.cpp" />
-        <item itemvalue="C/C++ File.firstElementToAppearKtimes.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -316,14 +319,8 @@
       <workItem from="1709447288824" duration="116000" />
       <workItem from="1709571854161" duration="213000" />
       <workItem from="1709649511740" duration="237000" />
-    </task>
-    <task id="LOCAL-00049" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1705419223758</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1705419223758</updated>
+      <workItem from="1709746647468" duration="218000" />
+      <workItem from="1709830194086" duration="64000" />
     </task>
     <task id="LOCAL-00050" summary="gfg">
       <option name="closed" value="true" />
@@ -709,7 +706,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709649674839</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1709746822518</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1709746822518</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
