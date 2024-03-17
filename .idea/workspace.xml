@@ -101,6 +101,7 @@
     &quot;C/C++ File.isArraySorted.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.largestNumberFromStringArray.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.largestSubMatrix.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.largestSubSquare.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.leafAtSameLevel.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.longSubarrWthSumDivByK.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.longestRepeatingNonOverlappingSubstring.cpp.executor&quot;: &quot;Run&quot;,
@@ -181,7 +182,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.largestSubSquare.cpp">
+  <component name="RunManager" selected="C/C++ File.countPairSum.cpp">
+    <configuration name="countPairSum.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="countPairSum.cpp" CONFIG_NAME="countPairSum.cpp">
+      <option name="sourceFile" value="countPairSum.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="countPairSums.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="countPairSums.cpp" CONFIG_NAME="countPairSums.cpp">
       <option name="sourceFile" value="countPairSums.cpp" />
       <method v="2">
@@ -206,19 +213,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeAllDuplicates.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="removeAllDuplicates.cpp" CONFIG_NAME="removeAllDuplicates.cpp">
-      <option name="sourceFile" value="removeAllDuplicates.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.countPairSum.cpp" />
         <item itemvalue="C/C++ File.largestSubSquare.cpp" />
         <item itemvalue="C/C++ File.printMatrixDiagonally.cpp" />
         <item itemvalue="C/C++ File.generalisedFibonacciNumbers.cpp" />
         <item itemvalue="C/C++ File.countPairSums.cpp" />
-        <item itemvalue="C/C++ File.removeAllDuplicates.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -336,14 +337,10 @@
       <workItem from="1710173855882" duration="680000" />
       <workItem from="1710216694483" duration="658000" />
       <workItem from="1710265652797" duration="1647000" />
-    </task>
-    <task id="LOCAL-00058" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1706200705690</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1706200705690</updated>
+      <workItem from="1710437186456" duration="84000" />
+      <workItem from="1710493714449" duration="13000" />
+      <workItem from="1710493734932" duration="2000" />
+      <workItem from="1710493745751" duration="1000" />
     </task>
     <task id="LOCAL-00059" summary="gfg">
       <option name="closed" value="true" />
@@ -729,7 +726,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710344127516</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1710437259334</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1710437259335</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
