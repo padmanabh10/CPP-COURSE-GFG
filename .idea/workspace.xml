@@ -161,6 +161,7 @@
     &quot;C/C++ File.waysBuildings.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.wildcardStringMatching.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.wordBreak.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.zigzagTreeTraversal.cpp.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
@@ -184,9 +185,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.zigzagTreeTraversal.cpp">
-    <configuration name="countPairSum.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="countPairSum.cpp" CONFIG_NAME="countPairSum.cpp">
-      <option name="sourceFile" value="countPairSum.cpp" />
+  <component name="RunManager" selected="C/C++ File.diagonalSumInBinary.cpp">
+    <configuration name="diagonalSumInBinary.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ COURSE-GFG" TARGET_NAME="diagonalSumInBinary.cpp" CONFIG_NAME="diagonalSumInBinary.cpp">
+      <option name="sourceFile" value="diagonalSumInBinary.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -217,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.diagonalSumInBinary.cpp" />
         <item itemvalue="C/C++ File.zigzagTreeTraversal.cpp" />
         <item itemvalue="C/C++ File.sumOfLongestBloodline.cpp" />
         <item itemvalue="C/C++ File.possiblePaths.cpp" />
         <item itemvalue="C/C++ File.levelOrderTraversal.cpp" />
-        <item itemvalue="C/C++ File.countPairSum.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -347,14 +348,7 @@
       <workItem from="1710780985102" duration="80000" />
       <workItem from="1710817514520" duration="128000" />
       <workItem from="1710953887364" duration="173000" />
-    </task>
-    <task id="LOCAL-00063" summary="gfg">
-      <option name="closed" value="true" />
-      <created>1706635869412</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1706635869413</updated>
+      <workItem from="1711036326160" duration="162000" />
     </task>
     <task id="LOCAL-00064" summary="gfg">
       <option name="closed" value="true" />
@@ -740,7 +734,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710954040026</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="gfg">
+      <option name="closed" value="true" />
+      <created>1711036468575</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1711036468576</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
